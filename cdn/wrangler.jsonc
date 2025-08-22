@@ -1,0 +1,7 @@
+{
+    "name": "wind-cdn",
+    "main": "./main.js",
+    "assets": {
+        "directory": "./static"
+    }
+}
