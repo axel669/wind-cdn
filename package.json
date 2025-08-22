@@ -1,0 +1,19 @@
+{
+  "name": "wind-cdn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.9.0",
+  "type": "module",
+  "dependencies": {
+    "@axel669/array-sort": "^0.1.0",
+    "opentype.js": "^1.3.4",
+    "woff-tools": "^0.1.0"
+  }
+}
